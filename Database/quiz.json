@@ -1,7 +1,12 @@
 [
   {
     "question": "What is the SI unit of force?",
-    "options": "a. Newton, b. Watt, c. Joule, d. Volt",
+    "options": [
+      "a. Newton",
+      "b. Watt",
+      "c. Joule",
+      "d. Volt"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -9,7 +14,12 @@
   },
   {
     "question": "Which of the following is a vector quantity?",
-    "options": "a. Speed, b. Mass, c. Distance, d. Acceleration",
+    "options": [
+      "a. Speed",
+      "b. Mass",
+      "c. Distance",
+      "d. Acceleration"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -17,7 +27,12 @@
   },
   {
     "question": "What is the boiling point of water in Celsius?",
-    "options": "a. 100°C, b. 0°C, c. 212°F, d. 273 K",
+    "options": [
+      "a. 100°C",
+      "b. 0°C",
+      "c. 212°F",
+      "d. 273 K"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -25,7 +40,12 @@
   },
   {
     "question": "Which law of motion states that 'for every action, there is an equal and opposite reaction'?",
-    "options": "a. Newton's First Law, b. Newton's Second Law, c. Newton's Third Law, d. Archimedes' Principle",
+    "options": [
+      "a. Newton's First Law",
+      "b. Newton's Second Law",
+      "c. Newton's Third Law",
+      "d. Archimedes' Principle"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -33,7 +53,12 @@
   },
   {
     "question": "Which of these are major oceans?",
-    "options": "a. Atlantic, b. Pacific, c. Indian, d. Baltic",
+    "options": [
+      "a. Atlantic",
+      "b. Pacific",
+      "c. Indian",
+      "d. Baltic"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -43,7 +68,12 @@
   },
   {
     "question": "What is the fundamental particle in an atom with a positive charge?",
-    "options": "a. Electron, b. Proton, c. Neutron, d. Photon",
+    "options": [
+      "a. Electron",
+      "b. Proton",
+      "c. Neutron",
+      "d. Photon"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -51,7 +81,12 @@
   },
   {
     "question": "Which color of light has the shortest wavelength?",
-    "options": "a. Red, b. Blue, c. Green, d. Yellow",
+    "options": [
+      "a. Red",
+      "b. Blue",
+      "c. Green",
+      "d. Yellow"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -59,7 +94,12 @@
   },
   {
     "question": "What is the unit of electric current?",
-    "options": "a. Ampere, b. Volt, c. Ohm, d. Watt",
+    "options": [
+      "a. Ampere",
+      "b. Volt",
+      "c. Ohm",
+      "d. Watt"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -67,7 +107,12 @@
   },
   {
     "question": "What is the law of conservation of energy?",
-    "options": "a. Energy cannot be created, b. Energy cannot be destroyed, c. Energy can change forms, d. All of the above",
+    "options": [
+      "a. Energy cannot be created",
+      "b. Energy cannot be destroyed",
+      "c. Energy can change forms",
+      "d. All of the above"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -75,7 +120,12 @@
   },
   {
     "question": "Which planet is known as the 'Red Planet'?",
-    "options": "a. Venus, b. Jupiter, c. Mars, d. Saturn",
+    "options": [
+      "a. Venus",
+      "b. Jupiter",
+      "c. Mars",
+      "d. Saturn"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -83,7 +133,12 @@
   },
   {
     "question": "What is the capital of Spain?",
-    "options": "a. Barcelona, b. Madrid, c. Valencia, d. Seville",
+    "options": [
+      "a. Barcelona",
+      "b. Madrid",
+      "c. Valencia",
+      "d. Seville"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -91,7 +146,12 @@
   },
   {
     "question": "Which of the following are European capitals?",
-    "options": "a. Berlin, b. Madrid, c. Paris, d. Rome",
+    "options": [
+      "a. Berlin",
+      "b. Madrid",
+      "c. Paris",
+      "d. Rome"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -102,7 +162,12 @@
   },
   {
     "question": "Which of these is the highest waterfall in the world?",
-    "options": "a. Niagara Falls, b. Victoria Falls, c. Angel Falls, d. Iguazu Falls",
+    "options": [
+      "a. Niagara Falls",
+      "b. Victoria Falls",
+      "c. Angel Falls",
+      "d. Iguazu Falls"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -110,7 +175,12 @@
   },
   {
     "question": "Which of these is the currency of the United Kingdom?",
-    "options": "a. Dollar, b. Euro, c. Pound, d. Yen",
+    "options": [
+      "a. Dollar",
+      "b. Euro",
+      "c. Pound",
+      "d. Yen"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -118,7 +188,12 @@
   },
   {
     "question": "Which are types of renewable energy?",
-    "options": "a. Solar, b. Coal, c. Wind, d. Hydroelectric",
+    "options": [
+      "a. Solar",
+      "b. Coal",
+      "c. Wind",
+      "d. Hydroelectric"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -128,7 +203,12 @@
   },
   {
     "question": "Which organs are part of the human digestive system?",
-    "options": "a. Stomach, b. Liver, c. Kidney, d. Intestines",
+    "options": [
+      "a. Stomach",
+      "b. Liver",
+      "c. Kidney",
+      "d. Intestines"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -138,7 +218,12 @@
   },
   {
     "question": "Which are official languages of Canada?",
-    "options": "a. English, b. French, c. Spanish, d. German",
+    "options": [
+      "a. English",
+      "b. French",
+      "c. Spanish",
+      "d. German"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -147,7 +232,12 @@
   },
   {
     "question": "Which elements are noble gases?",
-    "options": "a. Helium, b. Oxygen, c. Neon, d. Argon",
+    "options": [
+      "a. Helium",
+      "b. Oxygen",
+      "c. Neon",
+      "d. Argon"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -157,7 +247,12 @@
   },
   {
     "question": "Which of these countries are members of the European Union?",
-    "options": "a. Norway, b. Germany, c. Spain, d. Italy",
+    "options": [
+      "a. Norway",
+      "b. Germany",
+      "c. Spain",
+      "d. Italy"
+    ],
     "correctAnswers": [
       "b",
       "c",
@@ -167,7 +262,12 @@
   },
   {
     "question": "Which of these are types of clouds?",
-    "options": "a. Cirrus, b. Stratus, c. Cumulus, d. Pileus",
+    "options": [
+      "a. Cirrus",
+      "b. Stratus",
+      "c. Cumulus",
+      "d. Pileus"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -177,7 +277,12 @@
   },
   {
     "question": "Which of these bones are in the human arm?",
-    "options": "a. Femur, b. Ulna, c. Radius, d. Humerus",
+    "options": [
+      "a. Femur",
+      "b. Ulna",
+      "c. Radius",
+      "d. Humerus"
+    ],
     "correctAnswers": [
       "b",
       "c",
@@ -187,7 +292,12 @@
   },
   {
     "question": "Which of these are programming languages?",
-    "options": "a. Python, b. Java, c. HTML, d. C++",
+    "options": [
+      "a. Python",
+      "b. Java",
+      "c. HTML",
+      "d. C++"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -197,7 +307,12 @@
   },
   {
     "question": "Which of these instruments are string instruments?",
-    "options": "a. Violin, b. Trumpet, c. Guitar, d. Piano",
+    "options": [
+      "a. Violin",
+      "b. Trumpet",
+      "c. Guitar",
+      "d. Piano"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -207,7 +322,12 @@
   },
   {
     "question": "Which of these are planets in the Solar System?",
-    "options": "a. Earth, b. Pluto, c. Mars, d. Venus",
+    "options": [
+      "a. Earth",
+      "b. Pluto",
+      "c. Mars",
+      "d. Venus"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -217,7 +337,12 @@
   },
   {
     "question": "Which of these are parts of the human brain?",
-    "options": "a. Cerebrum, b. Medulla, c. Pancreas, d. Cerebellum",
+    "options": [
+      "a. Cerebrum",
+      "b. Medulla",
+      "c. Pancreas",
+      "d. Cerebellum"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -227,7 +352,12 @@
   },
   {
     "question": "Which of these elements are found in water?",
-    "options": "a. Hydrogen, b. Oxygen, c. Nitrogen, d. Carbon",
+    "options": [
+      "a. Hydrogen",
+      "b. Oxygen",
+      "c. Nitrogen",
+      "d. Carbon"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -236,7 +366,12 @@
   },
   {
     "question": "What is the chemical symbol for silver?",
-    "options": "a. Si, b. S, c. Ag, d. Au",
+    "options": [
+      "a. Si",
+      "b. S",
+      "c. Ag",
+      "d. Au"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -244,7 +379,12 @@
   },
   {
     "question": "What is the square root of 144?",
-    "options": "a. 10, b. 11, c. 12, d. 13",
+    "options": [
+      "a. 10",
+      "b. 11",
+      "c. 12",
+      "d. 13"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -252,7 +392,12 @@
   },
   {
     "question": "Which of these is the capital of Italy?",
-    "options": "a. Venice, b. Milan, c. Rome, d. Naples",
+    "options": [
+      "a. Venice",
+      "b. Milan",
+      "c. Rome",
+      "d. Naples"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -260,7 +405,12 @@
   },
   {
     "question": "What is the largest continent by land area?",
-    "options": "a. Africa, b. Asia, c. Europe, d. North America",
+    "options": [
+      "a. Africa",
+      "b. Asia",
+      "c. Europe",
+      "d. North America"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -268,7 +418,12 @@
   },
   {
     "question": "What is the chemical symbol for hydrogen?",
-    "options": "a. H, b. Hy, c. Ho, d. Ha",
+    "options": [
+      "a. H",
+      "b. Hy",
+      "c. Ho",
+      "d. Ha"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -276,7 +431,12 @@
   },
   {
     "question": "Which of these animals are mammals?",
-    "options": "a. Dolphin, b. Shark, c. Crocodile, d. Elephant",
+    "options": [
+      "a. Dolphin",
+      "b. Shark",
+      "c. Crocodile",
+      "d. Elephant"
+    ],
     "correctAnswers": [
       "a",
       "d"
@@ -285,7 +445,12 @@
   },
   {
     "question": "Which of these are primary colors?",
-    "options": "a. Red, b. Green, c. Blue, d. Yellow",
+    "options": [
+      "a. Red",
+      "b. Green",
+      "c. Blue",
+      "d. Yellow"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -295,7 +460,12 @@
   },
   {
     "question": "Which of these languages are official in Switzerland?",
-    "options": "a. German, b. French, c. Italian, d. Spanish",
+    "options": [
+      "a. German",
+      "b. French",
+      "c. Italian",
+      "d. Spanish"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -305,7 +475,12 @@
   },
   {
     "question": "Which planets are gas giants?",
-    "options": "a. Mercury, b. Venus, c. Jupiter, d. Saturn",
+    "options": [
+      "a. Mercury",
+      "b. Venus",
+      "c. Jupiter",
+      "d. Saturn"
+    ],
     "correctAnswers": [
       "c",
       "d"
@@ -314,7 +489,12 @@
   },
   {
     "question": "Which of these is the capital of Germany?",
-    "options": "a. Frankfurt, b. Munich, c. Hamburg, d. Berlin",
+    "options": [
+      "a. Frankfurt",
+      "b. Munich",
+      "c. Hamburg",
+      "d. Berlin"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -322,7 +502,12 @@
   },
   {
     "question": "What is the currency of India?",
-    "options": "a. Dollar, b. Euro, c. Rupee, d. Yen",
+    "options": [
+      "a. Dollar",
+      "b. Euro",
+      "c. Rupee",
+      "d. Yen"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -330,7 +515,12 @@
   },
   {
     "question": "What is the name of the capital of Bangladesh?",
-    "options": "a. Cumilla, b. Narayangonj, c. Chittagong, d. Dhaka",
+    "options": [
+      "a. Cumilla",
+      "b. Narayangonj",
+      "c. Chittagong",
+      "d. Dhaka"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -338,7 +528,12 @@
   },
   {
     "question": "What is the name of the currency of Bangladesh?",
-    "options": "a. Rupee, b. Tas, c. Taka, d. Haka",
+    "options": [
+      "a. Rupee",
+      "b. Tas",
+      "c. Taka",
+      "d. Haka"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -346,7 +541,12 @@
   },
   {
     "question": "Which of these elements are gases at room temperature?",
-    "options": "a. Oxygen, b. Carbon, c. Nitrogen, d. Helium",
+    "options": [
+      "a. Oxygen",
+      "b. Carbon",
+      "c. Nitrogen",
+      "d. Helium"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -356,7 +556,12 @@
   },
   {
     "question": "Which of these countries are in Asia?",
-    "options": "a. China, b. India, c. Brazil, d. Japan",
+    "options": [
+      "a. China",
+      "b. India",
+      "c. Brazil",
+      "d. Japan"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -366,7 +571,12 @@
   },
   {
     "question": "Which vitamins are water-soluble?",
-    "options": "a. Vitamin A, b. Vitamin C, c. Vitamin D, d. Vitamin B",
+    "options": [
+      "a. Vitamin A",
+      "b. Vitamin C",
+      "c. Vitamin D",
+      "d. Vitamin B"
+    ],
     "correctAnswers": [
       "b",
       "d"
@@ -375,7 +585,12 @@
   },
   {
     "question": "What is the chemical symbol for oxygen?",
-    "options": "a. O, b. Ox, c. Oz, d. Oxn",
+    "options": [
+      "a. O",
+      "b. Ox",
+      "c. Oz",
+      "d. Oxn"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -383,7 +598,12 @@
   },
   {
     "question": "Which gas do plants absorb during photosynthesis?",
-    "options": "a. Oxygen, b. Carbon dioxide, c. Nitrogen, d. Hydrogen",
+    "options": [
+      "a. Oxygen",
+      "b. Carbon dioxide",
+      "c. Nitrogen",
+      "d. Hydrogen"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -391,7 +611,12 @@
   },
   {
     "question": "What is the largest mammal on Earth?",
-    "options": "a. Elephant, b. Blue whale, c. Giraffe, d. Lion",
+    "options": [
+      "a. Elephant",
+      "b. Blue whale",
+      "c. Giraffe",
+      "d. Lion"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -399,7 +624,12 @@
   },
   {
     "question": "Which planet is known as the 'Morning Star'?",
-    "options": "a. Earth, b. Venus, c. Mars, d. Jupiter",
+    "options": [
+      "a. Earth",
+      "b. Venus",
+      "c. Mars",
+      "d. Jupiter"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -407,7 +637,12 @@
   },
   {
     "question": "What is the process by which plants make their own food?",
-    "options": "a. Respiration, b. Photosynthesis, c. Transpiration, d. Fermentation",
+    "options": [
+      "a. Respiration",
+      "b. Photosynthesis",
+      "c. Transpiration",
+      "d. Fermentation"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -415,7 +650,12 @@
   },
   {
     "question": "Which gas is responsible for the Earth's ozone layer depletion?",
-    "options": "a. Oxygen, b. Carbon dioxide, c. Chlorofluorocarbons (CFCs), d. Nitrogen",
+    "options": [
+      "a. Oxygen",
+      "b. Carbon dioxide",
+      "c. Chlorofluorocarbons (CFCs)",
+      "d. Nitrogen"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -423,7 +663,12 @@
   },
   {
     "question": "What is the capital of Australia?",
-    "options": "a. Sydney, b. Melbourne, c. Canberra, d. Perth",
+    "options": [
+      "a. Sydney",
+      "b. Melbourne",
+      "c. Canberra",
+      "d. Perth"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -431,7 +676,12 @@
   },
   {
     "question": "Which of these are continents?",
-    "options": "a. Africa, b. Antarctica, c. Amazon, d. Asia",
+    "options": [
+      "a. Africa",
+      "b. Antarctica",
+      "c. Amazon",
+      "d. Asia"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -441,7 +691,12 @@
   },
   {
     "question": "What is the chemical symbol for gold?",
-    "options": "a. Go, b. Gd, c. Gl, d. Au",
+    "options": [
+      "a. Go",
+      "b. Gd",
+      "c. Gl",
+      "d. Au"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -449,7 +704,12 @@
   },
   {
     "question": "Which of these is the largest planet in our solar system?",
-    "options": "a. Earth, b. Mars, c. Jupiter, d. Venus",
+    "options": [
+      "a. Earth",
+      "b. Mars",
+      "c. Jupiter",
+      "d. Venus"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -457,7 +717,12 @@
   },
   {
     "question": "What is the unit of pressure in the International System of Units (SI)?",
-    "options": "a. Pascal, b. Newton, c. Joule, d. Watt",
+    "options": [
+      "a. Pascal",
+      "b. Newton",
+      "c. Joule",
+      "d. Watt"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -465,7 +730,12 @@
   },
   {
     "question": "Which of these animals are reptiles?",
-    "options": "a. Frog, b. Turtle, c. Snake, d. Kangaroo",
+    "options": [
+      "a. Frog",
+      "b. Turtle",
+      "c. Snake",
+      "d. Kangaroo"
+    ],
     "correctAnswers": [
       "b",
       "c"
@@ -474,7 +744,12 @@
   },
   {
     "question": "What is the freezing point of water in Fahrenheit?",
-    "options": "a. 0°F, b. 100°F, c. 32°F, d. 212°F",
+    "options": [
+      "a. 0°F",
+      "b. 100°F",
+      "c. 32°F",
+      "d. 212°F"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -482,7 +757,12 @@
   },
   {
     "question": "Which of these countries are in South America?",
-    "options": "a. Canada, b. Brazil, c. Russia, d. Egypt",
+    "options": [
+      "a. Canada",
+      "b. Brazil",
+      "c. Russia",
+      "d. Egypt"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -490,7 +770,12 @@
   },
   {
     "question": "What is the chemical symbol for carbon?",
-    "options": "a. Co, b. Cr, c. Ca, d. C",
+    "options": [
+      "a. Co",
+      "b. Cr",
+      "c. Ca",
+      "d. C"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -498,7 +783,12 @@
   },
   {
     "question": "Which of these is a prime number?",
-    "options": "a. 1, b. 5, c. 10, d. 15",
+    "options": [
+      "a. 1",
+      "b. 5",
+      "c. 10",
+      "d. 15"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -506,7 +796,12 @@
   },
   {
     "question": "What is the smallest prime number?",
-    "options": "a. 0, b. 1, c. 2, d. 3",
+    "options": [
+      "a. 0",
+      "b. 1",
+      "c. 2",
+      "d. 3"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -514,7 +809,12 @@
   },
   {
     "question": "Which gas do humans exhale when they breathe out?",
-    "options": "a. Oxygen, b. Carbon dioxide, c. Nitrogen, d. Hydrogen",
+    "options": [
+      "a. Oxygen",
+      "b. Carbon dioxide",
+      "c. Nitrogen",
+      "d. Hydrogen"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -522,7 +822,12 @@
   },
   {
     "question": "What is the chemical symbol for sodium?",
-    "options": "a. So, b. Sa, c. Na, d. No",
+    "options": [
+      "a. So",
+      "b. Sa",
+      "c. Na",
+      "d. No"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -530,7 +835,12 @@
   },
   {
     "question": "Which of these are programming languages?",
-    "options": "a. Ruby, b. Potato, c. Perl, d. Banana",
+    "options": [
+      "a. Ruby",
+      "b. Potato",
+      "c. Perl",
+      "d. Banana"
+    ],
     "correctAnswers": [
       "a",
       "c"
@@ -539,7 +849,12 @@
   },
   {
     "question": "What is the smallest bone in the human body?",
-    "options": "a. Femur, b. Stapes, c. Tibia, d. Ulna",
+    "options": [
+      "a. Femur",
+      "b. Stapes",
+      "c. Tibia",
+      "d. Ulna"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -547,7 +862,12 @@
   },
   {
     "question": "What is the chemical formula for water?",
-    "options": "a. CO2, b. H2O, c. NaCl, d. O2",
+    "options": [
+      "a. CO2",
+      "b. H2O",
+      "c. NaCl",
+      "d. O2"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -555,7 +875,12 @@
   },
   {
     "question": "Which of these countries is landlocked?",
-    "options": "a. Bolivia, b. Brazil, c. Argentina, d. Peru",
+    "options": [
+      "a. Bolivia",
+      "b. Brazil",
+      "c. Argentina",
+      "d. Peru"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -563,7 +888,12 @@
   },
   {
     "question": "What is the capital of Japan?",
-    "options": "a. Beijing, b. Seoul, c. Tokyo, d. Shanghai",
+    "options": [
+      "a. Beijing",
+      "b. Seoul",
+      "c. Tokyo",
+      "d. Shanghai"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -571,7 +901,12 @@
   },
   {
     "question": "Who wrote 'Romeo and Juliet'?",
-    "options": "a. William Shakespeare, b. Charles Dickens, c. Jane Austen, d. Mark Twain",
+    "options": [
+      "a. William Shakespeare",
+      "b. Charles Dickens",
+      "c. Jane Austen",
+      "d. Mark Twain"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -579,7 +914,12 @@
   },
   {
     "question": "Which of these are greenhouse gases?",
-    "options": "a. Carbon Dioxide, b. Methane, c. Oxygen, d. Nitrogen",
+    "options": [
+      "a. Carbon Dioxide",
+      "b. Methane",
+      "c. Oxygen",
+      "d. Nitrogen"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -588,7 +928,20 @@
   },
   {
     "question": "What are the primary colors of light?",
-    "options": "a. Red, Green, Blue, b. Red, Yellow, Blue, c. Green, Blue, Yellow, d. Red, Green, Purple",
+    "options": [
+      "a. Red",
+      "Green",
+      "Blue",
+      "b. Red",
+      "Yellow",
+      "Blue",
+      "c. Green",
+      "Blue",
+      "Yellow",
+      "d. Red",
+      "Green",
+      "Purple"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -596,7 +949,12 @@
   },
   {
     "question": "Which of these elements are metals?",
-    "options": "a. Helium, b. Iron, c. Oxygen, d. Copper",
+    "options": [
+      "a. Helium",
+      "b. Iron",
+      "c. Oxygen",
+      "d. Copper"
+    ],
     "correctAnswers": [
       "b",
       "d"
@@ -605,7 +963,12 @@
   },
   {
     "question": "What is the largest mammal in the world?",
-    "options": "a. African Elephant, b. Blue Whale, c. Giraffe, d. Polar Bear",
+    "options": [
+      "a. African Elephant",
+      "b. Blue Whale",
+      "c. Giraffe",
+      "d. Polar Bear"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -613,7 +976,12 @@
   },
   {
     "question": "Which of these countries are members of the United Nations Security Council?",
-    "options": "a. India, b. China, c. Germany, d. United States",
+    "options": [
+      "a. India",
+      "b. China",
+      "c. Germany",
+      "d. United States"
+    ],
     "correctAnswers": [
       "b",
       "d"
@@ -622,7 +990,12 @@
   },
   {
     "question": "What is the capital of Australia?",
-    "options": "a. Sydney, b. Melbourne, c. Canberra, d. Brisbane",
+    "options": [
+      "a. Sydney",
+      "b. Melbourne",
+      "c. Canberra",
+      "d. Brisbane"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -630,7 +1003,12 @@
   },
   {
     "question": "Which of these are noble metals?",
-    "options": "a. Gold, b. Silver, c. Iron, d. Lead",
+    "options": [
+      "a. Gold",
+      "b. Silver",
+      "c. Iron",
+      "d. Lead"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -639,7 +1017,12 @@
   },
   {
     "question": "What is the main language spoken in Brazil?",
-    "options": "a. Spanish, b. English, c. Portuguese, d. French",
+    "options": [
+      "a. Spanish",
+      "b. English",
+      "c. Portuguese",
+      "d. French"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -647,7 +1030,12 @@
   },
   {
     "question": "Which planets in our solar system have rings?",
-    "options": "a. Earth and Mars, b. Jupiter and Saturn, c. Venus and Mercury, d. Neptune and Uranus",
+    "options": [
+      "a. Earth and Mars",
+      "b. Jupiter and Saturn",
+      "c. Venus and Mercury",
+      "d. Neptune and Uranus"
+    ],
     "correctAnswers": [
       "b",
       "d"
@@ -656,7 +1044,12 @@
   },
   {
     "question": "What is the currency of Japan?",
-    "options": "a. Yuan, b. Won, c. Yen, d. Dollar",
+    "options": [
+      "a. Yuan",
+      "b. Won",
+      "c. Yen",
+      "d. Dollar"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -664,7 +1057,12 @@
   },
   {
     "question": "Which of these vitamins are fat-soluble?",
-    "options": "a. Vitamin A, b. Vitamin C, c. Vitamin D, d. Vitamin K",
+    "options": [
+      "a. Vitamin A",
+      "b. Vitamin C",
+      "c. Vitamin D",
+      "d. Vitamin K"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -674,7 +1072,12 @@
   },
   {
     "question": "What is the capital of Canada?",
-    "options": "a. Vancouver, b. Toronto, c. Ottawa, d. Montreal",
+    "options": [
+      "a. Vancouver",
+      "b. Toronto",
+      "c. Ottawa",
+      "d. Montreal"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -682,7 +1085,12 @@
   },
   {
     "question": "Which of these organs are part of the human respiratory system?",
-    "options": "a. Heart, b. Lungs, c. Liver, d. Trachea",
+    "options": [
+      "a. Heart",
+      "b. Lungs",
+      "c. Liver",
+      "d. Trachea"
+    ],
     "correctAnswers": [
       "b",
       "d"
@@ -691,7 +1099,12 @@
   },
   {
     "question": "Who is known as the father of modern physics?",
-    "options": "a. Isaac Newton, b. Albert Einstein, c. Galileo Galilei, d. Nikola Tesla",
+    "options": [
+      "a. Isaac Newton",
+      "b. Albert Einstein",
+      "c. Galileo Galilei",
+      "d. Nikola Tesla"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -699,7 +1112,12 @@
   },
   {
     "question": "Which of these are layers of the Earth's atmosphere?",
-    "options": "a. Troposphere, b. Mesosphere, c. Stratosphere, d. Ionosphere",
+    "options": [
+      "a. Troposphere",
+      "b. Mesosphere",
+      "c. Stratosphere",
+      "d. Ionosphere"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -709,7 +1127,12 @@
   },
   {
     "question": "Who is known as the father of modern computer science?",
-    "options": "a. Charles Babbage, b. Alan Turing, c. John von Neumann, d. Steve Jobs",
+    "options": [
+      "a. Charles Babbage",
+      "b. Alan Turing",
+      "c. John von Neumann",
+      "d. Steve Jobs"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -717,7 +1140,12 @@
   },
   {
     "question": "What is the primary source of energy for Earth?",
-    "options": "a. The Moon, b. Wind, c. The Sun, d. Fossil Fuels",
+    "options": [
+      "a. The Moon",
+      "b. Wind",
+      "c. The Sun",
+      "d. Fossil Fuels"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -725,7 +1153,12 @@
   },
   {
     "question": "Which of these elements are halogens?",
-    "options": "a. Fluorine, b. Bromine, c. Nitrogen, d. Oxygen",
+    "options": [
+      "a. Fluorine",
+      "b. Bromine",
+      "c. Nitrogen",
+      "d. Oxygen"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -734,7 +1167,12 @@
   },
   {
     "question": "What is the capital city of Egypt?",
-    "options": "a. Cairo, b. Alexandria, c. Giza, d. Luxor",
+    "options": [
+      "a. Cairo",
+      "b. Alexandria",
+      "c. Giza",
+      "d. Luxor"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -742,7 +1180,12 @@
   },
   {
     "question": "Which of these is the largest planet in our Solar System?",
-    "options": "a. Earth, b. Jupiter, c. Saturn, d. Mars",
+    "options": [
+      "a. Earth",
+      "b. Jupiter",
+      "c. Saturn",
+      "d. Mars"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -750,7 +1193,20 @@
   },
   {
     "question": "What are the three states of matter?",
-    "options": "a. Solid, Liquid, Gas, b. Solid, Gas, Plasma, c. Liquid, Gas, Plasma, d. Solid, Liquid, Vapor",
+    "options": [
+      "a. Solid",
+      "Liquid",
+      "Gas",
+      "b. Solid",
+      "Gas",
+      "Plasma",
+      "c. Liquid",
+      "Gas",
+      "Plasma",
+      "d. Solid",
+      "Liquid",
+      "Vapor"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -758,7 +1214,12 @@
   },
   {
     "question": "Which of these are types of blood cells?",
-    "options": "a. Red blood cells, b. White blood cells, c. Platelets, d. Plasma cells",
+    "options": [
+      "a. Red blood cells",
+      "b. White blood cells",
+      "c. Platelets",
+      "d. Plasma cells"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -768,7 +1229,12 @@
   },
   {
     "question": "What is the capital of Russia?",
-    "options": "a. St. Petersburg, b. Moscow, c. Vladivostok, d. Sochi",
+    "options": [
+      "a. St. Petersburg",
+      "b. Moscow",
+      "c. Vladivostok",
+      "d. Sochi"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -776,7 +1242,12 @@
   },
   {
     "question": "Which of these are layers of the Earth?",
-    "options": "a. Crust, b. Mantle, c. Core, d. Atmosphere",
+    "options": [
+      "a. Crust",
+      "b. Mantle",
+      "c. Core",
+      "d. Atmosphere"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -786,7 +1257,12 @@
   },
   {
     "question": "What is the name of the galaxy that contains our Solar System?",
-    "options": "a. Andromeda, b. Whirlpool, c. Milky Way, d. Triangulum",
+    "options": [
+      "a. Andromeda",
+      "b. Whirlpool",
+      "c. Milky Way",
+      "d. Triangulum"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -794,7 +1270,12 @@
   },
   {
     "question": "Which of these rivers is the longest?",
-    "options": "a. Nile, b. Amazon, c. Yangtze, d. Mississippi",
+    "options": [
+      "a. Nile",
+      "b. Amazon",
+      "c. Yangtze",
+      "d. Mississippi"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -802,7 +1283,12 @@
   },
   {
     "question": "Which of these languages is primarily spoken in Spain?",
-    "options": "a. Portuguese, b. Catalan, c. Spanish, d. Basque",
+    "options": [
+      "a. Portuguese",
+      "b. Catalan",
+      "c. Spanish",
+      "d. Basque"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -810,7 +1296,12 @@
   },
   {
     "question": "What is the process by which plants make their food?",
-    "options": "a. Photosynthesis, b. Respiration, c. Fermentation, d. Osmosis",
+    "options": [
+      "a. Photosynthesis",
+      "b. Respiration",
+      "c. Fermentation",
+      "d. Osmosis"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -818,7 +1309,12 @@
   },
   {
     "question": "Which of these countries are in the African continent?",
-    "options": "a. Egypt, b. India, c. Australia, d. Nigeria",
+    "options": [
+      "a. Egypt",
+      "b. India",
+      "c. Australia",
+      "d. Nigeria"
+    ],
     "correctAnswers": [
       "a",
       "d"
@@ -827,7 +1323,12 @@
   },
   {
     "question": "What is the term for a baby kangaroo?",
-    "options": "a. Calf, b. Pup, c. Joey, d. Kitten",
+    "options": [
+      "a. Calf",
+      "b. Pup",
+      "c. Joey",
+      "d. Kitten"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -835,7 +1336,12 @@
   },
   {
     "question": "Which of these is a renewable energy source?",
-    "options": "a. Solar Energy, b. Natural Gas, c. Coal, d. Nuclear Energy",
+    "options": [
+      "a. Solar Energy",
+      "b. Natural Gas",
+      "c. Coal",
+      "d. Nuclear Energy"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -843,7 +1349,12 @@
   },
   {
     "question": "What is the capital of Brazil?",
-    "options": "a. Rio de Janeiro, b. São Paulo, c. Brasília, d. Salvador",
+    "options": [
+      "a. Rio de Janeiro",
+      "b. São Paulo",
+      "c. Brasília",
+      "d. Salvador"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -851,7 +1362,12 @@
   },
   {
     "question": "Which of these are major components of the Earth's atmosphere?",
-    "options": "a. Nitrogen, b. Oxygen, c. Carbon Dioxide, d. Argon",
+    "options": [
+      "a. Nitrogen",
+      "b. Oxygen",
+      "c. Carbon Dioxide",
+      "d. Argon"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -861,7 +1377,12 @@
   },
   {
     "question": "What is the chemical symbol for Gold?",
-    "options": "a. Au, b. Ag, c. Ga, d. Ge",
+    "options": [
+      "a. Au",
+      "b. Ag",
+      "c. Ga",
+      "d. Ge"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -869,7 +1390,12 @@
   },
   {
     "question": "Who wrote the play 'Romeo and Juliet'?",
-    "options": "a. William Shakespeare, b. Charles Dickens, c. Jane Austen, d. Leo Tolstoy",
+    "options": [
+      "a. William Shakespeare",
+      "b. Charles Dickens",
+      "c. Jane Austen",
+      "d. Leo Tolstoy"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -877,7 +1403,12 @@
   },
   {
     "question": "What are the primary colors of light?",
-    "options": "a. Red, Yellow, Blue, b. Red, Green, Blue, c. Yellow, Green, Blue, d. Red, Yellow, Green",
+    "options": [
+      "a. Red, Green, Blue",
+      "b. Red, Green, Blue",
+      "c. Yellow, Green, Blue",
+      "d. Red, Yellow, Green"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -885,7 +1416,12 @@
   },
   {
     "question": "Which of these vitamins is known as ascorbic acid?",
-    "options": "a. Vitamin A, b. Vitamin B, c. Vitamin C, d. Vitamin D",
+    "options": [
+      "a. Vitamin A",
+      "b. Vitamin B",
+      "c. Vitamin C",
+      "d. Vitamin D"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -893,7 +1429,12 @@
   },
   {
     "question": "What is the largest mammal in the world?",
-    "options": "a. African Elephant, b. Blue Whale, c. Giraffe, d. Great White Shark",
+    "options": [
+      "a. African Elephant",
+      "b. Blue Whale",
+      "c. Giraffe",
+      "d. Great White Shark"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -901,7 +1442,12 @@
   },
   {
     "question": "Which of these countries are members of the European Union?",
-    "options": "a. Norway, b. Switzerland, c. Germany, d. France",
+    "options": [
+      "a. Norway",
+      "b. Switzerland",
+      "c. Germany",
+      "d. France"
+    ],
     "correctAnswers": [
       "c",
       "d"
@@ -910,7 +1456,12 @@
   },
   {
     "question": "What is the smallest bone in the human body?",
-    "options": "a. Femur, b. Stapes, c. Tibia, d. Ulna",
+    "options": [
+      "a. Femur",
+      "b. Stapes",
+      "c. Tibia",
+      "d. Ulna"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -918,7 +1469,12 @@
   },
   {
     "question": "Which planet is known as the Red Planet?",
-    "options": "a. Mars, b. Venus, c. Jupiter, d. Saturn",
+    "options": [
+      "a. Mars",
+      "b. Venus",
+      "c. Jupiter",
+      "d. Saturn"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -926,7 +1482,12 @@
   },
   {
     "question": "What are the primary components of water?",
-    "options": "a. Hydrogen and Oxygen, b. Carbon and Hydrogen, c. Oxygen and Nitrogen, d. Hydrogen and Nitrogen",
+    "options": [
+      "a. Hydrogen and Oxygen",
+      "b. Carbon and Hydrogen",
+      "c. Oxygen and Nitrogen",
+      "d. Hydrogen and Nitrogen"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -934,7 +1495,12 @@
   },
   {
     "question": "Which of these animals are mammals?",
-    "options": "a. Dolphin, b. Crocodile, c. Eagle, d. Bat",
+    "options": [
+      "a. Dolphin",
+      "b. Crocodile",
+      "c. Eagle",
+      "d. Bat"
+    ],
     "correctAnswers": [
       "a",
       "d"
@@ -943,7 +1509,12 @@
   },
   {
     "question": "What is the capital of Japan?",
-    "options": "a. Kyoto, b. Osaka, c. Tokyo, d. Hiroshima",
+    "options": [
+      "a. Kyoto",
+      "b. Osaka",
+      "c. Tokyo",
+      "d. Hiroshima"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -951,7 +1522,12 @@
   },
   {
     "question": "Who is known as the 'Father of Geometry'?",
-    "options": "a. Pythagoras, b. Euclid, c. Archimedes, d. Aristotle",
+    "options": [
+      "a. Pythagoras",
+      "b. Euclid",
+      "c. Archimedes",
+      "d. Aristotle"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -959,7 +1535,12 @@
   },
   {
     "question": "What is the hardest natural substance on Earth?",
-    "options": "a. Diamond, b. Ruby, c. Quartz, d. Sapphire",
+    "options": [
+      "a. Diamond",
+      "b. Ruby",
+      "c. Quartz",
+      "d. Sapphire"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -967,7 +1548,12 @@
   },
   {
     "question": "Which of these are noble gases?",
-    "options": "a. Neon, b. Argon, c. Oxygen, d. Nitrogen",
+    "options": [
+      "a. Neon",
+      "b. Argon",
+      "c. Oxygen",
+      "d. Nitrogen"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -976,7 +1562,12 @@
   },
   {
     "question": "What is the capital city of Canada?",
-    "options": "a. Toronto, b. Vancouver, c. Ottawa, d. Montreal",
+    "options": [
+      "a. Toronto",
+      "b. Vancouver",
+      "c. Ottawa",
+      "d. Montreal"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -984,7 +1575,12 @@
   },
   {
     "question": "Which of these are types of joints in the human body?",
-    "options": "a. Ball-and-socket, b. Hinge, c. Pivot, d. Saddle",
+    "options": [
+      "a. Ball-and-socket",
+      "b. Hinge",
+      "c. Pivot",
+      "d. Saddle"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -994,7 +1590,12 @@
   },
   {
     "question": "What is the main ingredient in traditional bread?",
-    "options": "a. Rice, b. Wheat, c. Corn, d. Oats",
+    "options": [
+      "a. Rice",
+      "b. Wheat",
+      "c. Corn",
+      "d. Oats"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1002,7 +1603,12 @@
   },
   {
     "question": "Who discovered penicillin?",
-    "options": "a. Alexander Fleming, b. Louis Pasteur, c. Jonas Salk, d. Marie Curie",
+    "options": [
+      "a. Alexander Fleming",
+      "b. Louis Pasteur",
+      "c. Jonas Salk",
+      "d. Marie Curie"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1010,7 +1616,12 @@
   },
   {
     "question": "Which of these elements is a liquid at room temperature?",
-    "options": "a. Mercury, b. Iron, c. Gold, d. Silver",
+    "options": [
+      "a. Mercury",
+      "b. Iron",
+      "c. Gold",
+      "d. Silver"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1018,7 +1629,12 @@
   },
   {
     "question": "What are the main colors in the flag of Italy?",
-    "options": "a. Red, White, Green, b. Green, White, Blue, c. Black, Yellow, Red, d. Blue, White, Red",
+    "options": [
+      "a. Red",
+      "b. White",
+      "c. Green",
+      "d. Blue"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1026,7 +1642,12 @@
   },
   {
     "question": "Who painted the Mona Lisa?",
-    "options": "a. Leonardo da Vinci, b. Vincent Van Gogh, c. Pablo Picasso, d. Rembrandt",
+    "options": [
+      "a. Leonardo da Vinci",
+      "b. Vincent Van Gogh",
+      "c. Pablo Picasso",
+      "d. Rembrandt"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1034,7 +1655,12 @@
   },
   {
     "question": "What is the chemical formula for water?",
-    "options": "a. H2O, b. CO2, c. NaCl, d. O2",
+    "options": [
+      "a. H2O",
+      "b. CO2",
+      "c. NaCl",
+      "d. O2"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1042,7 +1668,12 @@
   },
   {
     "question": "What is the largest organ in the human body?",
-    "options": "a. Heart, b. Liver, c. Skin, d. Brain",
+    "options": [
+      "a. Heart",
+      "b. Liver",
+      "c. Skin",
+      "d. Brain"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1050,7 +1681,12 @@
   },
   {
     "question": "Which of these elements are noble metals?",
-    "options": "a. Gold, b. Silver, c. Iron, d. Copper",
+    "options": [
+      "a. Gold",
+      "b. Silver",
+      "c. Iron",
+      "d. Copper"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -1059,7 +1695,12 @@
   },
   {
     "question": "Who wrote 'Pride and Prejudice'?",
-    "options": "a. Charlotte Brontë, b. Jane Austen, c. Emily Dickinson, d. George Eliot",
+    "options": [
+      "a. Charlotte Brontë",
+      "b. Jane Austen",
+      "c. Emily Dickinson",
+      "d. George Eliot"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1067,7 +1708,12 @@
   },
   {
     "question": "What is the main gas found in the Earth's atmosphere?",
-    "options": "a. Oxygen, b. Nitrogen, c. Carbon Dioxide, d. Argon",
+    "options": [
+      "a. Oxygen",
+      "b. Nitrogen",
+      "c. Carbon Dioxide",
+      "d. Argon"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1075,7 +1721,11 @@
   },
   {
     "question": "What are the primary colors in pigment?",
-    "options": "a. Red, Green, Blue, b. Cyan, Magenta, Yellow, c. Red, Yellow, Blue, d. Green, Purple, Orange",
+    "options": [
+      "a. Red",
+      "b. Yellow",
+      "c. Blue"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1083,7 +1733,12 @@
   },
   {
     "question": "What is the capital of Australia?",
-    "options": "a. Sydney, b. Melbourne, c. Brisbane, d. Canberra",
+    "options": [
+      "a. Sydney",
+      "b. Melbourne",
+      "c. Brisbane",
+      "d. Canberra"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -1091,7 +1746,12 @@
   },
   {
     "question": "Which of these is a greenhouse gas?",
-    "options": "a. Nitrogen, b. Oxygen, c. Carbon Dioxide, d. Hydrogen",
+    "options": [
+      "a. Nitrogen",
+      "b. Oxygen",
+      "c. Carbon Dioxide",
+      "d. Hydrogen"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1099,7 +1759,12 @@
   },
   {
     "question": "Who discovered gravity?",
-    "options": "a. Isaac Newton, b. Albert Einstein, c. Galileo Galilei, d. Nikola Tesla",
+    "options": [
+      "a. Isaac Newton",
+      "b. Albert Einstein",
+      "c. Galileo Galilei",
+      "d. Nikola Tesla"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1107,7 +1772,12 @@
   },
   {
     "question": "Which of these countries are located in South America?",
-    "options": "a. Brazil, b. Colombia, c. Mexico, d. Spain",
+    "options": [
+      "a. Brazil",
+      "b. Colombia",
+      "c. Mexico",
+      "d. Spain"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -1116,7 +1786,12 @@
   },
   {
     "question": "Which of these is not a primary taste?",
-    "options": "a. Sweet, b. Sour, c. Bitter, d. Spicy",
+    "options": [
+      "a. Sweet",
+      "b. Sour",
+      "c. Bitter",
+      "d. Spicy"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -1124,7 +1799,12 @@
   },
   {
     "question": "What is the capital city of France?",
-    "options": "a. Lyon, b. Marseille, c. Paris, d. Nice",
+    "options": [
+      "a. Lyon",
+      "b. Marseille",
+      "c. Paris",
+      "d. Nice"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1132,7 +1812,12 @@
   },
   {
     "question": "Which of these planets is closest to the sun?",
-    "options": "a. Venus, b. Earth, c. Mars, d. Mercury",
+    "options": [
+      "a. Venus",
+      "b. Earth",
+      "c. Mars",
+      "d. Mercury"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -1140,7 +1825,12 @@
   },
   {
     "question": "What are the building blocks of proteins?",
-    "options": "a. Fatty acids, b. Nucleotides, c. Amino acids, d. Monosaccharides",
+    "options": [
+      "a. Fatty acids",
+      "b. Nucleotides",
+      "c. Amino acids",
+      "d. Monosaccharides"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1148,7 +1838,12 @@
   },
   {
     "question": "Which of these countries have a red, white, and blue flag?",
-    "options": "a. France, b. Germany, c. Italy, d. United Kingdom",
+    "options": [
+      "a. France",
+      "b. Germany",
+      "c. Italy",
+      "d. United Kingdom"
+    ],
     "correctAnswers": [
       "a",
       "d"
@@ -1157,7 +1852,12 @@
   },
   {
     "question": "What is the capital of India?",
-    "options": "a. Mumbai, b. Kolkata, c. New Delhi, d. Bangalore",
+    "options": [
+      "a. Mumbai",
+      "b. Kolkata",
+      "c. New Delhi",
+      "d. Bangalore"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1165,7 +1865,12 @@
   },
   {
     "question": "Which of these are types of clouds?",
-    "options": "a. Cirrus, b. Cumulus, c. Stratus, d. Nimbus",
+    "options": [
+      "a. Cirrus",
+      "b. Cumulus",
+      "c. Stratus",
+      "d. Nimbus"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -1175,7 +1880,12 @@
   },
   {
     "question": "Who is known as the 'Father of History'?",
-    "options": "a. Herodotus, b. Plato, c. Aristotle, d. Socrates",
+    "options": [
+      "a. Herodotus",
+      "b. Plato",
+      "c. Aristotle",
+      "d. Socrates"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1183,7 +1893,12 @@
   },
   {
     "question": "Which of these animals is a reptile?",
-    "options": "a. Frog, b. Salamander, c. Crocodile, d. Penguin",
+    "options": [
+      "a. Frog",
+      "b. Salamander",
+      "c. Crocodile",
+      "d. Penguin"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1191,7 +1906,12 @@
   },
   {
     "question": "Which gas is most abundant in the Earth's atmosphere?",
-    "options": "a. Oxygen, b. Nitrogen, c. Carbon Dioxide, d. Argon",
+    "options": [
+      "a. Oxygen",
+      "b. Nitrogen",
+      "c. Carbon Dioxide",
+      "d. Argon"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1199,7 +1919,12 @@
   },
   {
     "question": "Who is the author of '1984'?",
-    "options": "a. George Orwell, b. Aldous Huxley, c. J.R.R. Tolkien, d. Ernest Hemingway",
+    "options": [
+      "a. George Orwell",
+      "b. Aldous Huxley",
+      "c. J.R.R. Tolkien",
+      "d. Ernest Hemingway"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1207,7 +1932,12 @@
   },
   {
     "question": "What is the hardest known natural material?",
-    "options": "a. Diamond, b. Ruby, c. Quartz, d. Sapphire",
+    "options": [
+      "a. Diamond",
+      "b. Ruby",
+      "c. Quartz",
+      "d. Sapphire"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1215,7 +1945,12 @@
   },
   {
     "question": "Which of these are states of matter?",
-    "options": "a. Solid, b. Liquid, c. Gas, d. Plasma",
+    "options": [
+      "a. Solid",
+      "b. Liquid",
+      "c. Gas",
+      "d. Plasma"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -1226,7 +1961,12 @@
   },
   {
     "question": "What is the capital city of Italy?",
-    "options": "a. Rome, b. Milan, c. Venice, d. Florence",
+    "options": [
+      "a. Rome",
+      "b. Milan",
+      "c. Venice",
+      "d. Florence"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1234,7 +1974,12 @@
   },
   {
     "question": "Which planet in our solar system is known for its rings?",
-    "options": "a. Jupiter, b. Saturn, c. Uranus, d. Neptune",
+    "options": [
+      "a. Jupiter",
+      "b. Saturn",
+      "c. Uranus",
+      "d. Neptune"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1242,7 +1987,12 @@
   },
   {
     "question": "What is the chemical symbol for Sodium?",
-    "options": "a. S, b. N, c. Na, d. So",
+    "options": [
+      "a. S",
+      "b. N",
+      "c. Na",
+      "d. So"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1250,7 +2000,12 @@
   },
   {
     "question": "Which of these vitamins is water-soluble?",
-    "options": "a. Vitamin A, b. Vitamin C, c. Vitamin D, d. Vitamin E",
+    "options": [
+      "a. Vitamin A",
+      "b. Vitamin C",
+      "c. Vitamin D",
+      "d. Vitamin E"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1258,7 +2013,12 @@
   },
   {
     "question": "Who was the first person to walk on the Moon?",
-    "options": "a. Neil Armstrong, b. Buzz Aldrin, c. Yuri Gagarin, d. John Glenn",
+    "options": [
+      "a. Neil Armstrong",
+      "b. Buzz Aldrin",
+      "c. Yuri Gagarin",
+      "d. John Glenn"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1266,7 +2026,12 @@
   },
   {
     "question": "What are the three primary colors?",
-    "options": "a. Red, Yellow, Blue, b. Green, Orange, Violet, c. Red, Green, Blue, d. Yellow, Cyan, Magenta",
+    "options": [
+      "a. Red, Yellow, Blue",
+      "b. Green, Orange, Violet",
+      "c. Red, Green, Blue",
+      "d. Yellow, Cyan, Magenta"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1274,7 +2039,12 @@
   },
   {
     "question": "Which of these elements are found in water?",
-    "options": "a. Hydrogen, b. Oxygen, c. Nitrogen, d. Carbon",
+    "options": [
+      "a. Hydrogen",
+      "b. Oxygen",
+      "c. Nitrogen",
+      "d. Carbon"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -1283,7 +2053,12 @@
   },
   {
     "question": "What is the largest continent on Earth?",
-    "options": "a. Africa, b. Asia, c. Europe, d. North America",
+    "options": [
+      "a. Africa",
+      "b. Asia",
+      "c. Europe",
+      "d. North America"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1291,7 +2066,12 @@
   },
   {
     "question": "Who is known as the father of psychoanalysis?",
-    "options": "a. Carl Jung, b. Sigmund Freud, c. Alfred Adler, d. B.F. Skinner",
+    "options": [
+      "a. Carl Jung",
+      "b. Sigmund Freud",
+      "c. Alfred Adler",
+      "d. B.F. Skinner"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1299,7 +2079,12 @@
   },
   {
     "question": "Which of these countries are in Asia?",
-    "options": "a. China, b. Egypt, c. India, d. Brazil",
+    "options": [
+      "a. China",
+      "b. Egypt",
+      "c. India",
+      "d. Brazil"
+    ],
     "correctAnswers": [
       "a",
       "c"
@@ -1308,7 +2093,12 @@
   },
   {
     "question": "What is the largest planet in our Solar System?",
-    "options": "a. Earth, b. Jupiter, c. Saturn, d. Neptune",
+    "options": [
+      "a. Earth",
+      "b. Jupiter",
+      "c. Saturn",
+      "d. Neptune"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1316,7 +2106,12 @@
   },
   {
     "question": "Which of these animals is a mammal?",
-    "options": "a. Shark, b. Dolphin, c. Crocodile, d. Salmon",
+    "options": [
+      "a. Shark",
+      "b. Dolphin",
+      "c. Crocodile",
+      "d. Salmon"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1324,7 +2119,12 @@
   },
   {
     "question": "What is the term for a baby horse?",
-    "options": "a. Calf, b. Foal, c. Kid, d. Pup",
+    "options": [
+      "a. Calf",
+      "b. Foal",
+      "c. Kid",
+      "d. Pup"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1332,7 +2132,12 @@
   },
   {
     "question": "Which of these is a primary color of light?",
-    "options": "a. Yellow, b. Red, c. Green, d. Purple",
+    "options": [
+      "a. Yellow",
+      "b. Red",
+      "c. Green",
+      "d. Purple"
+    ],
     "correctAnswers": [
       "b",
       "c"
@@ -1341,7 +2146,12 @@
   },
   {
     "question": "What is the capital city of Germany?",
-    "options": "a. Berlin, b. Munich, c. Frankfurt, d. Hamburg",
+    "options": [
+      "a. Berlin",
+      "b. Munich",
+      "c. Frankfurt",
+      "d. Hamburg"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1349,7 +2159,12 @@
   },
   {
     "question": "Which of these are layers of the Earth?",
-    "options": "a. Crust, b. Mantle, c. Core, d. Lithosphere",
+    "options": [
+      "a. Crust",
+      "b. Mantle",
+      "c. Core",
+      "d. Lithosphere"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -1359,7 +2174,12 @@
   },
   {
     "question": "What is the primary function of red blood cells?",
-    "options": "a. Blood clotting, b. Fighting infection, c. Transporting oxygen, d. Regulating body temperature",
+    "options": [
+      "a. Blood clotting",
+      "b. Fighting infection",
+      "c. Transporting oxygen",
+      "d. Regulating body temperature"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1367,7 +2187,12 @@
   },
   {
     "question": "Who is the author of 'To Kill a Mockingbird'?",
-    "options": "a. Harper Lee, b. Mark Twain, c. J.D. Salinger, d. Ernest Hemingway",
+    "options": [
+      "a. Harper Lee",
+      "b. Mark Twain",
+      "c. J.D. Salinger",
+      "d. Ernest Hemingway"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1375,7 +2200,12 @@
   },
   {
     "question": "Which planet is known as the 'Evening Star'?",
-    "options": "a. Mars, b. Venus, c. Jupiter, d. Saturn",
+    "options": [
+      "a. Mars",
+      "b. Venus",
+      "c. Jupiter",
+      "d. Saturn"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1383,7 +2213,12 @@
   },
   {
     "question": "What is the largest ocean on Earth?",
-    "options": "a. Atlantic, b. Pacific, c. Indian, d. Arctic",
+    "options": [
+      "a. Atlantic",
+      "b. Pacific",
+      "c. Indian",
+      "d. Arctic"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1391,7 +2226,12 @@
   },
   {
     "question": "Which of these elements are gases at room temperature?",
-    "options": "a. Hydrogen, b. Helium, c. Sodium, d. Iron",
+    "options": [
+      "a. Hydrogen",
+      "b. Helium",
+      "c. Sodium",
+      "d. Iron"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -1400,7 +2240,12 @@
   },
   {
     "question": "Who is known as the 'Father of Western Philosophy'?",
-    "options": "a. Aristotle, b. Socrates, c. Plato, d. Descartes",
+    "options": [
+      "a. Aristotle",
+      "b. Socrates",
+      "c. Plato",
+      "d. Descartes"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1408,7 +2253,12 @@
   },
   {
     "question": "What is the formula for calculating the area of a circle?",
-    "options": "a. πr², b. 2πr, c. πd, d. r²/2",
+    "options": [
+      "a. πr²",
+      "b. 2πr",
+      "c. πd",
+      "d. r²/2"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1416,7 +2266,12 @@
   },
   {
     "question": "Which of these animals are native to Australia?",
-    "options": "a. Kangaroo, b. Koala, c. Lion, d. Panda",
+    "options": [
+      "a. Kangaroo",
+      "b. Koala",
+      "c. Lion",
+      "d. Panda"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -1425,7 +2280,12 @@
   },
   {
     "question": "What is the chemical symbol for Iron?",
-    "options": "a. Ir, b. Fe, c. In, d. I",
+    "options": [
+      "a. Ir",
+      "b. Fe",
+      "c. In",
+      "d. I"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1433,7 +2293,12 @@
   },
   {
     "question": "Which of these rivers is the longest in the world?",
-    "options": "a. Nile, b. Amazon, c. Yangtze, d. Mississippi",
+    "options": [
+      "a. Nile",
+      "b. Amazon",
+      "c. Yangtze",
+      "d. Mississippi"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1441,7 +2306,12 @@
   },
   {
     "question": "Who is known as the 'Father of Computers'?",
-    "options": "a. Charles Babbage, b. Alan Turing, c. John von Neumann, d. Steve Jobs",
+    "options": [
+      "a. Charles Babbage",
+      "b. Alan Turing",
+      "c. John von Neumann",
+      "d. Steve Jobs"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1449,7 +2319,12 @@
   },
   {
     "question": "Which of these vitamins are fat-soluble?",
-    "options": "a. Vitamin A, b. Vitamin B, c. Vitamin C, d. Vitamin D",
+    "options": [
+      "a. Vitamin A",
+      "b. Vitamin B",
+      "c. Vitamin C",
+      "d. Vitamin D"
+    ],
     "correctAnswers": [
       "a",
       "d"
@@ -1458,7 +2333,12 @@
   },
   {
     "question": "What is the capital city of Spain?",
-    "options": "a. Barcelona, b. Madrid, c. Seville, d. Valencia",
+    "options": [
+      "a. Barcelona",
+      "b. Madrid",
+      "c. Seville",
+      "d. Valencia"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1466,7 +2346,12 @@
   },
   {
     "question": "Which of these elements are halogens?",
-    "options": "a. Fluorine, b. Bromine, c. Sodium, d. Potassium",
+    "options": [
+      "a. Fluorine",
+      "b. Bromine",
+      "c. Sodium",
+      "d. Potassium"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -1475,7 +2360,12 @@
   },
   {
     "question": "What is the process of converting liquid to vapor called?",
-    "options": "a. Freezing, b. Melting, c. Evaporation, d. Condensation",
+    "options": [
+      "a. Freezing",
+      "b. Melting",
+      "c. Evaporation",
+      "d. Condensation"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1483,7 +2373,12 @@
   },
   {
     "question": "Which of these countries are in the European Union?",
-    "options": "a. Switzerland, b. Norway, c. Germany, d. France",
+    "options": [
+      "a. Switzerland",
+      "b. Norway",
+      "c. Germany",
+      "d. France"
+    ],
     "correctAnswers": [
       "c",
       "d"
@@ -1492,7 +2387,12 @@
   },
   {
     "question": "What is the capital of Canada?",
-    "options": "a. Toronto, b. Vancouver, c. Montreal, d. Ottawa",
+    "options": [
+      "a. Toronto",
+      "b. Vancouver",
+      "c. Montreal",
+      "d. Ottawa"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -1500,7 +2400,12 @@
   },
   {
     "question": "Which of these are types of blood cells?",
-    "options": "a. Red blood cells, b. White blood cells, c. Platelets, d. Plasma cells",
+    "options": [
+      "a. Red blood cells",
+      "b. White blood cells",
+      "c. Platelets",
+      "d. Plasma cells"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -1510,7 +2415,12 @@
   },
   {
     "question": "Who wrote 'The Great Gatsby'?",
-    "options": "a. F. Scott Fitzgerald, b. Ernest Hemingway, c. John Steinbeck, d. William Faulkner",
+    "options": [
+      "a. F. Scott Fitzgerald",
+      "b. Ernest Hemingway",
+      "c. John Steinbeck",
+      "d. William Faulkner"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1518,7 +2428,12 @@
   },
   {
     "question": "Which of these is a gas giant planet in our solar system?",
-    "options": "a. Earth, b. Mars, c. Jupiter, d. Venus",
+    "options": [
+      "a. Earth",
+      "b. Mars",
+      "c. Jupiter",
+      "d. Venus"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1526,7 +2441,12 @@
   },
   {
     "question": "What is the main component of the Sun?",
-    "options": "a. Oxygen, b. Hydrogen, c. Helium, d. Nitrogen",
+    "options": [
+      "a. Oxygen",
+      "b. Hydrogen",
+      "c. Helium",
+      "d. Nitrogen"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1534,7 +2454,12 @@
   },
   {
     "question": "Who is the author of 'The Odyssey'?",
-    "options": "a. Homer, b. Virgil, c. Plato, d. Aristotle",
+    "options": [
+      "a. Homer",
+      "b. Virgil",
+      "c. Plato",
+      "d. Aristotle"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1542,7 +2467,12 @@
   },
   {
     "question": "What is the capital of the United Kingdom?",
-    "options": "a. London, b. Edinburgh, c. Manchester, d. Liverpool",
+    "options": [
+      "a. London",
+      "b. Edinburgh",
+      "c. Manchester",
+      "d. Liverpool"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1550,7 +2480,12 @@
   },
   {
     "question": "Which of these elements are Alkaline Earth Metals?",
-    "options": "a. Lithium, b. Beryllium, c. Sodium, d. Magnesium",
+    "options": [
+      "a. Lithium",
+      "b. Beryllium",
+      "c. Sodium",
+      "d. Magnesium"
+    ],
     "correctAnswers": [
       "b",
       "d"
@@ -1559,7 +2494,12 @@
   },
   {
     "question": "Who painted 'Starry Night'?",
-    "options": "a. Claude Monet, b. Pablo Picasso, c. Vincent van Gogh, d. Leonardo da Vinci",
+    "options": [
+      "a. Claude Monet",
+      "b. Pablo Picasso",
+      "c. Vincent van Gogh",
+      "d. Leonardo da Vinci"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1567,7 +2507,12 @@
   },
   {
     "question": "Which of these are dwarf planets in our Solar System?",
-    "options": "a. Earth, b. Pluto, c. Mars, d. Eris",
+    "options": [
+      "a. Earth",
+      "b. Pluto",
+      "c. Mars",
+      "d. Eris"
+    ],
     "correctAnswers": [
       "b",
       "d"
@@ -1576,7 +2521,12 @@
   },
   {
     "question": "What is the boiling point of water at sea level?",
-    "options": "a. 90°C, b. 100°C, c. 110°C, d. 120°C",
+    "options": [
+      "a. 90°C",
+      "b. 100°C",
+      "c. 110°C",
+      "d. 120°C"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1584,7 +2534,12 @@
   },
   {
     "question": "Which of these countries is in North America?",
-    "options": "a. Mexico, b. Brazil, c. Spain, d. Italy",
+    "options": [
+      "a. Mexico",
+      "b. Brazil",
+      "c. Spain",
+      "d. Italy"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1592,7 +2547,12 @@
   },
   {
     "question": "What is the main ingredient in chocolate?",
-    "options": "a. Milk, b. Sugar, c. Cocoa, d. Vanilla",
+    "options": [
+      "a. Milk",
+      "b. Sugar",
+      "c. Cocoa",
+      "d. Vanilla"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1600,7 +2560,12 @@
   },
   {
     "question": "Who is known as the 'Father of Medicine'?",
-    "options": "a. Hippocrates, b. Galen, c. Aristotle, d. Socrates",
+    "options": [
+      "a. Hippocrates",
+      "b. Galen",
+      "c. Aristotle",
+      "d. Socrates"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1608,7 +2573,12 @@
   },
   {
     "question": "Which of these are primary colors in the RGB color model?",
-    "options": "a. Red, b. Green, c. Blue, d. Yellow",
+    "options": [
+      "a. Red",
+      "b. Green",
+      "c. Blue",
+      "d. Yellow"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -1618,7 +2588,12 @@
   },
   {
     "question": "What is the capital of Brazil?",
-    "options": "a. Rio de Janeiro, b. São Paulo, c. Brasília, d. Salvador",
+    "options": [
+      "a. Rio de Janeiro",
+      "b. São Paulo",
+      "c. Brasília",
+      "d. Salvador"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1626,7 +2601,12 @@
   },
   {
     "question": "Who wrote 'Hamlet'?",
-    "options": "a. William Shakespeare, b. Charles Dickens, c. Jane Austen, d. Mark Twain",
+    "options": [
+      "a. William Shakespeare",
+      "b. Charles Dickens",
+      "c. Jane Austen",
+      "d. Mark Twain"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1634,7 +2614,12 @@
   },
   {
     "question": "Which of these animals is a bird?",
-    "options": "a. Dolphin, b. Shark, c. Eagle, d. Lion",
+    "options": [
+      "a. Dolphin",
+      "b. Shark",
+      "c. Eagle",
+      "d. Lion"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -1642,7 +2627,12 @@
   },
   {
     "question": "What is the largest planet in our Solar System?",
-    "options": "a. Earth, b. Jupiter, c. Saturn, d. Mars",
+    "options": [
+      "a. Earth",
+      "b. Jupiter",
+      "c. Saturn",
+      "d. Mars"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -1650,7 +2640,12 @@
   },
   {
     "question": "What is the most abundant element in the Earth's crust?",
-    "options": "a. Oxygen, b. Silicon, c. Aluminum, d. Iron",
+    "options": [
+      "a. Oxygen",
+      "b. Silicon",
+      "c. Aluminum",
+      "d. Iron"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1658,7 +2653,12 @@
   },
   {
     "question": "Who discovered the law of gravity?",
-    "options": "a. Isaac Newton, b. Albert Einstein, c. Galileo Galilei, d. Nikola Tesla",
+    "options": [
+      "a. Isaac Newton",
+      "b. Albert Einstein",
+      "c. Galileo Galilei",
+      "d. Nikola Tesla"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -1666,246 +2666,103 @@
   },
   {
     "question": "Which of these is a non-renewable energy source?",
-    "options": "a. Solar energy, b. Wind energy, c. Coal, d. Hydroelectric power",
+    "options": [
+      "a. Solar energy",
+      "b. Wind energy",
+      "c. Coal",
+      "d. Hydroelectric power"
+    ],
     "correctAnswers": [
       "c"
     ],
     "questionID": "198"
   },
   {
-    "question": "What is the process by which plants make their food?",
-    "options": "a. Photosynthesis, b. Respiration, c. Fermentation, d. Osmosis",
+    "question": "What is the derivative of x^2?",
+    "options": [
+      "a. 2x",
+      "b. x^2",
+      "c. x",
+      "d. 2"
+    ],
     "correctAnswers": [
       "a"
     ],
     "questionID": "199"
   },
   {
-    "question": "Which of these countries is in the African continent?",
-    "options": "a. Egypt, b. India, c. Australia, d. Nigeria",
+    "question": "What is the pH value of acid?",
+    "options": [
+      "a. 1, b. 7, c. 10, d. 14"
+    ],
     "correctAnswers": [
-      "a",
-      "d"
+      "a"
     ],
     "questionID": "200"
   },
   {
-    "question": "What is the term for a baby kangaroo?",
-    "options": "a. Calf, b. Pup, c. Joey, d. Kitten",
+    "question": "What is the pH value of acid?",
+    "options": [
+      "a. 1",
+      "b. 7",
+      "c. 10",
+      "d. 14"
+    ],
     "correctAnswers": [
-      "c"
+      "a"
     ],
     "questionID": "201"
   },
   {
-    "question": "Which of these is a renewable energy source?",
-    "options": "a. Solar Energy, b. Natural Gas, c. Coal, d. Nuclear Energy",
+    "question": "What is the unit of work?",
+    "options": [
+      "a. N",
+      "b. Kg",
+      "c. J",
+      "d.h"
+    ],
     "correctAnswers": [
-      "a"
+      "d"
     ],
     "questionID": "202"
   },
   {
-    "question": "What is the capital of Brazil?",
-    "options": "a. Rio de Janeiro, b. São Paulo, c. Brasília, d. Salvador",
+    "question": "Which of the following is a synonym for 'joyful'?",
+    "options": [
+      "a. Sad",
+      "b. Angry",
+      "c. Happy",
+      "d. Annoyed"
+    ],
     "correctAnswers": [
       "c"
     ],
     "questionID": "203"
   },
   {
-    "question": "Which of these are major components of the Earth's atmosphere?",
-    "options": "a. Nitrogen, b. Oxygen, c. Carbon Dioxide, d. Argon",
+    "question": "What is the pH value of acid?",
+    "options": [
+      "a. 1",
+      "b. 7",
+      "c. 10",
+      "d. 14"
+    ],
     "correctAnswers": [
-      "a",
-      "b",
-      "d"
+      "a"
     ],
     "questionID": "204"
   },
   {
-    "question": "What is the chemical symbol for Gold?",
-    "options": "a. Au, b. Ag, c. Ga, d. Ge",
+    "question": "What is the unit of work?",
+    "options": [
+      "a. N",
+      "b. Kg",
+      "c. J",
+      "d.h"
+    ],
     "correctAnswers": [
-      "a"
+      "d"
     ],
     "questionID": "205"
-  },
-  {
-    "question": "Who wrote the play 'Romeo and Juliet'?",
-    "options": "a. William Shakespeare, b. Charles Dickens, c. Jane Austen, d. Leo Tolstoy",
-    "correctAnswers": [
-      "a"
-    ],
-    "questionID": "206"
-  },
-  {
-    "question": "What are the primary colors of light?",
-    "options": "a. Red, Yellow, Blue, b. Red, Green, Blue, c. Yellow, Green, Blue, d. Red, Yellow, Green",
-    "correctAnswers": [
-      "b"
-    ],
-    "questionID": "207"
-  },
-  {
-    "question": "What are the primary colors of light?",
-    "options": "a. Red, Yellow, Blue, b. Red, Green, Blue, c. Yellow, Green, Blue, d. Red, Yellow, Green",
-    "correctAnswers": [
-      "b"
-    ],
-    "questionID": "211"
-  },
-  {
-    "question": "What is the unit of force?",
-    "options": "a. N, b. Kg, c. T, d.h",
-    "correctAnswers": [
-      "d"
-    ],
-    "questionID": "212"
-  },
-  {
-    "question": "What is the unit of force?",
-    "options": "a. N, b. Kg, c. T, d.h",
-    "correctAnswers": [
-      "d"
-    ],
-    "questionID": "213"
-  },
-  {
-    "question": "What is the unit of work?",
-    "options": "a. N, b. Kg, c. J, d.h",
-    "correctAnswers": [
-      "c"
-    ],
-    "questionID": "214"
-  },
-  {
-    "question": "What is the unit of Pressure?",
-    "options": "a. Pa, b. atm, c. J, d.h",
-    "correctAnswers": [
-      "a",
-      "b"
-    ],
-    "questionID": "215"
-  },
-  {
-    "question": "What is the pH value of pure water at 35°C?",
-    "options": "a. 1, b. 7, c. 10, d. 14",
-    "correctAnswers": [
-      "b"
-    ],
-    "questionID": "216"
-  },
-  {
-    "question": "What is the speed of light in vacuum?",
-    "options": "a. 3.00 x 10^8 m/s, b. 2.99 x 10^8 m/s, c. 3.01 x 10^8 m/s, d. 3.00 x 10^9 m/s",
-    "correctAnswers": [
-      "a"
-    ],
-    "questionID": "217"
-  },
-  {
-    "question": "What is the derivative of x^2?",
-    "options": "a. 2x, b. x^2, c. x, d. 2",
-    "correctAnswers": [
-      "a"
-    ],
-    "questionID": "218"
-  },
-  {
-    "question": "Which of the following is a synonym for 'happy'?",
-    "options": "a. Sad, b. Angry, c. Joyful, d. Annoyed",
-    "correctAnswers": [
-      "c"
-    ],
-    "questionID": "219"
-  },
-  {
-    "question": "What is the pH value of acid?",
-    "options": "a. 1, b. 7, c. 10, d. 14",
-    "correctAnswers": [
-      "a"
-    ],
-    "questionID": "220"
-  },
-  {
-    "question": "What is the pH value of acid?",
-    "options": "a. 1, b. 7, c. 10, d. 14",
-    "correctAnswers": [
-      "a"
-    ],
-    "questionID": "221"
-  },
-  {
-    "question": "Which of the following is a synonym for 'joyful'?",
-    "options": "a. Sad, b. Angry, c. Happy, d. Annoyed",
-    "correctAnswers": [
-      "c"
-    ],
-    "questionID": "222"
-  },
-  {
-    "question": "What is the derivative of x^2?",
-    "options": "a. 2x, b. x^2, c. x, d. 2",
-    "correctAnswers": [
-      "a"
-    ],
-    "questionID": "223"
-  },
-  {
-    "question": "What is the derivative of x^2?",
-    "options": "a. 2x, b. x^2, c. x, d. 2",
-    "correctAnswers": [
-      "a"
-    ],
-    "questionID": "224"
-  },
-  {
-    "question": "What is the derivative of x^2?",
-    "options": "a. 2x, b. x^2, c. x, d. 2",
-    "correctAnswers": [
-      "a"
-    ],
-    "questionID": "225"
-  },
-  {
-    "question": "What is the unit of work?",
-    "options": "a. N, b. Kg, c. J, d.h",
-    "correctAnswers": [
-      "c"
-    ],
-    "questionID": "226"
-  },
-  {
-    "question": "What is the unit of work?",
-    "options": "a. N, b. Kg, c. J, d.h",
-    "correctAnswers": [
-      "c"
-    ],
-    "questionID": "227"
-  },
-  {
-    "question": "Which of the following is a synonym for 'happy'?",
-    "options": "a. Sad, b. Angry, c. Joyful, d. Annoyed",
-    "correctAnswers": [
-      "c"
-    ],
-    "questionID": "228"
-  },
-  {
-    "question": "Which of the following is a synonym for 'happy'?",
-    "options": "a. Sad, b. Angry, c. Joyful, d. Annoyed",
-    "correctAnswers": [
-      "c"
-    ],
-    "questionID": "229"
-  },
-  {
-    "question": "Which of the following is a synonym for 'happy'?",
-    "options": "a. Sad, b. Angry, c. Joyful, d. Annoyed",
-    "correctAnswers": [
-      "c"
-    ],
-    "questionID": "230"
   }
 ]

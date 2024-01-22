@@ -1,15 +1,25 @@
 [
   {
-  "question": "What is the SI unit of force?",
-  "options": "a. Newton, b. Watt, c. Joule, d. Volt",
-  "correctAnswers": [
-    "a"
-  ],
-  "questionID": "1"
-},
+    "question": "What is the SI unit of force?",
+    "options": [
+      "a. Newton",
+      "b. Watt",
+      "c. Joule",
+      "d. Volt"
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "questionID": "1"
+  },
   {
     "question": "Which of the following is a vector quantity?",
-    "options": "a. Speed, b. Mass, c. Distance, d. Acceleration",
+    "options": [
+      "a. Speed",
+      "b. Mass",
+      "c. Distance",
+      "d. Acceleration"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -17,7 +27,12 @@
   },
   {
     "question": "What is the boiling point of water in Celsius?",
-    "options": "a. 100°C, b. 0°C, c. 212°F, d. 273 K",
+    "options": [
+      "a. 100°C",
+      "b. 0°C",
+      "c. 212°F",
+      "d. 273 K"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -25,7 +40,12 @@
   },
   {
     "question": "Which law of motion states that 'for every action, there is an equal and opposite reaction'?",
-    "options": "a. Newton's First Law, b. Newton's Second Law, c. Newton's Third Law, d. Archimedes' Principle",
+    "options": [
+      "a. Newton's First Law",
+      "b. Newton's Second Law",
+      "c. Newton's Third Law",
+      "d. Archimedes' Principle"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -33,7 +53,12 @@
   },
   {
     "question": "Which of these are major oceans?",
-    "options": "a. Atlantic, b. Pacific, c. Indian, d. Baltic",
+    "options": [
+      "a. Atlantic",
+      "b. Pacific",
+      "c. Indian",
+      "d. Baltic"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -43,7 +68,12 @@
   },
   {
     "question": "What is the fundamental particle in an atom with a positive charge?",
-    "options": "a. Electron, b. Proton, c. Neutron, d. Photon",
+    "options": [
+      "a. Electron",
+      "b. Proton",
+      "c. Neutron",
+      "d. Photon"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -51,7 +81,12 @@
   },
   {
     "question": "Which color of light has the shortest wavelength?",
-    "options": "a. Red, b. Blue, c. Green, d. Yellow",
+    "options": [
+      "a. Red",
+      "b. Blue",
+      "c. Green",
+      "d. Yellow"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -59,7 +94,12 @@
   },
   {
     "question": "What is the unit of electric current?",
-    "options": "a. Ampere, b. Volt, c. Ohm, d. Watt",
+    "options": [
+      "a. Ampere",
+      "b. Volt",
+      "c. Ohm",
+      "d. Watt"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -67,7 +107,12 @@
   },
   {
     "question": "What is the law of conservation of energy?",
-    "options": "a. Energy cannot be created, b. Energy cannot be destroyed, c. Energy can change forms, d. All of the above",
+    "options": [
+      "a. Energy cannot be created",
+      "b. Energy cannot be destroyed",
+      "c. Energy can change forms",
+      "d. All of the above"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -75,7 +120,12 @@
   },
   {
     "question": "Which planet is known as the 'Red Planet'?",
-    "options": "a. Venus, b. Jupiter, c. Mars, d. Saturn",
+    "options": [
+      "a. Venus",
+      "b. Jupiter",
+      "c. Mars",
+      "d. Saturn"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -83,7 +133,12 @@
   },
   {
     "question": "What is the capital of Spain?",
-    "options": "a. Barcelona, b. Madrid, c. Valencia, d. Seville",
+    "options": [
+      "a. Barcelona",
+      "b. Madrid",
+      "c. Valencia",
+      "d. Seville"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -91,7 +146,12 @@
   },
   {
     "question": "Which of the following are European capitals?",
-    "options": "a. Berlin, b. Madrid, c. Paris, d. Rome",
+    "options": [
+      "a. Berlin",
+      "b. Madrid",
+      "c. Paris",
+      "d. Rome"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -102,7 +162,12 @@
   },
   {
     "question": "Which of these is the highest waterfall in the world?",
-    "options": "a. Niagara Falls, b. Victoria Falls, c. Angel Falls, d. Iguazu Falls",
+    "options": [
+      "a. Niagara Falls",
+      "b. Victoria Falls",
+      "c. Angel Falls",
+      "d. Iguazu Falls"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -110,7 +175,12 @@
   },
   {
     "question": "Which of these is the currency of the United Kingdom?",
-    "options": "a. Dollar, b. Euro, c. Pound, d. Yen",
+    "options": [
+      "a. Dollar",
+      "b. Euro",
+      "c. Pound",
+      "d. Yen"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -118,7 +188,12 @@
   },
   {
     "question": "Which are types of renewable energy?",
-    "options": "a. Solar, b. Coal, c. Wind, d. Hydroelectric",
+    "options": [
+      "a. Solar",
+      "b. Coal",
+      "c. Wind",
+      "d. Hydroelectric"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -128,7 +203,12 @@
   },
   {
     "question": "Which organs are part of the human digestive system?",
-    "options": "a. Stomach, b. Liver, c. Kidney, d. Intestines",
+    "options": [
+      "a. Stomach",
+      "b. Liver",
+      "c. Kidney",
+      "d. Intestines"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -138,7 +218,12 @@
   },
   {
     "question": "Which are official languages of Canada?",
-    "options": "a. English, b. French, c. Spanish, d. German",
+    "options": [
+      "a. English",
+      "b. French",
+      "c. Spanish",
+      "d. German"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -147,7 +232,12 @@
   },
   {
     "question": "Which elements are noble gases?",
-    "options": "a. Helium, b. Oxygen, c. Neon, d. Argon",
+    "options": [
+      "a. Helium",
+      "b. Oxygen",
+      "c. Neon",
+      "d. Argon"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -157,7 +247,12 @@
   },
   {
     "question": "Which of these countries are members of the European Union?",
-    "options": "a. Norway, b. Germany, c. Spain, d. Italy",
+    "options": [
+      "a. Norway",
+      "b. Germany",
+      "c. Spain",
+      "d. Italy"
+    ],
     "correctAnswers": [
       "b",
       "c",
@@ -167,7 +262,12 @@
   },
   {
     "question": "Which of these are types of clouds?",
-    "options": "a. Cirrus, b. Stratus, c. Cumulus, d. Pileus",
+    "options": [
+      "a. Cirrus",
+      "b. Stratus",
+      "c. Cumulus",
+      "d. Pileus"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -177,7 +277,12 @@
   },
   {
     "question": "Which of these bones are in the human arm?",
-    "options": "a. Femur, b. Ulna, c. Radius, d. Humerus",
+    "options": [
+      "a. Femur",
+      "b. Ulna",
+      "c. Radius",
+      "d. Humerus"
+    ],
     "correctAnswers": [
       "b",
       "c",
@@ -187,7 +292,12 @@
   },
   {
     "question": "Which of these are programming languages?",
-    "options": "a. Python, b. Java, c. HTML, d. C++",
+    "options": [
+      "a. Python",
+      "b. Java",
+      "c. HTML",
+      "d. C++"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -197,7 +307,12 @@
   },
   {
     "question": "Which of these instruments are string instruments?",
-    "options": "a. Violin, b. Trumpet, c. Guitar, d. Piano",
+    "options": [
+      "a. Violin",
+      "b. Trumpet",
+      "c. Guitar",
+      "d. Piano"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -207,7 +322,12 @@
   },
   {
     "question": "Which of these are planets in the Solar System?",
-    "options": "a. Earth, b. Pluto, c. Mars, d. Venus",
+    "options": [
+      "a. Earth",
+      "b. Pluto",
+      "c. Mars",
+      "d. Venus"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -217,7 +337,12 @@
   },
   {
     "question": "Which of these are parts of the human brain?",
-    "options": "a. Cerebrum, b. Medulla, c. Pancreas, d. Cerebellum",
+    "options": [
+      "a. Cerebrum",
+      "b. Medulla",
+      "c. Pancreas",
+      "d. Cerebellum"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -227,7 +352,12 @@
   },
   {
     "question": "Which of these elements are found in water?",
-    "options": "a. Hydrogen, b. Oxygen, c. Nitrogen, d. Carbon",
+    "options": [
+      "a. Hydrogen",
+      "b. Oxygen",
+      "c. Nitrogen",
+      "d. Carbon"
+    ],
     "correctAnswers": [
       "a",
       "b"
@@ -236,7 +366,12 @@
   },
   {
     "question": "What is the chemical symbol for silver?",
-    "options": "a. Si, b. S, c. Ag, d. Au",
+    "options": [
+      "a. Si",
+      "b. S",
+      "c. Ag",
+      "d. Au"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -244,7 +379,12 @@
   },
   {
     "question": "What is the square root of 144?",
-    "options": "a. 10, b. 11, c. 12, d. 13",
+    "options": [
+      "a. 10",
+      "b. 11",
+      "c. 12",
+      "d. 13"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -252,7 +392,12 @@
   },
   {
     "question": "Which of these is the capital of Italy?",
-    "options": "a. Venice, b. Milan, c. Rome, d. Naples",
+    "options": [
+      "a. Venice",
+      "b. Milan",
+      "c. Rome",
+      "d. Naples"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -260,7 +405,12 @@
   },
   {
     "question": "What is the largest continent by land area?",
-    "options": "a. Africa, b. Asia, c. Europe, d. North America",
+    "options": [
+      "a. Africa",
+      "b. Asia",
+      "c. Europe",
+      "d. North America"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -268,7 +418,12 @@
   },
   {
     "question": "What is the chemical symbol for hydrogen?",
-    "options": "a. H, b. Hy, c. Ho, d. Ha",
+    "options": [
+      "a. H",
+      "b. Hy",
+      "c. Ho",
+      "d. Ha"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -276,7 +431,12 @@
   },
   {
     "question": "Which of these animals are mammals?",
-    "options": "a. Dolphin, b. Shark, c. Crocodile, d. Elephant",
+    "options": [
+      "a. Dolphin",
+      "b. Shark",
+      "c. Crocodile",
+      "d. Elephant"
+    ],
     "correctAnswers": [
       "a",
       "d"
@@ -285,7 +445,12 @@
   },
   {
     "question": "Which of these are primary colors?",
-    "options": "a. Red, b. Green, c. Blue, d. Yellow",
+    "options": [
+      "a. Red",
+      "b. Green",
+      "c. Blue",
+      "d. Yellow"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -295,7 +460,12 @@
   },
   {
     "question": "Which of these languages are official in Switzerland?",
-    "options": "a. German, b. French, c. Italian, d. Spanish",
+    "options": [
+      "a. German",
+      "b. French",
+      "c. Italian",
+      "d. Spanish"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -305,7 +475,12 @@
   },
   {
     "question": "Which planets are gas giants?",
-    "options": "a. Mercury, b. Venus, c. Jupiter, d. Saturn",
+    "options": [
+      "a. Mercury",
+      "b. Venus",
+      "c. Jupiter",
+      "d. Saturn"
+    ],
     "correctAnswers": [
       "c",
       "d"
@@ -314,7 +489,12 @@
   },
   {
     "question": "Which of these is the capital of Germany?",
-    "options": "a. Frankfurt, b. Munich, c. Hamburg, d. Berlin",
+    "options": [
+      "a. Frankfurt",
+      "b. Munich",
+      "c. Hamburg",
+      "d. Berlin"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -322,7 +502,12 @@
   },
   {
     "question": "What is the currency of India?",
-    "options": "a. Dollar, b. Euro, c. Rupee, d. Yen",
+    "options": [
+      "a. Dollar",
+      "b. Euro",
+      "c. Rupee",
+      "d. Yen"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -330,7 +515,12 @@
   },
   {
     "question": "What is the name of the capital of Bangladesh?",
-    "options": "a. Cumilla, b. Narayangonj, c. Chittagong, d. Dhaka",
+    "options": [
+      "a. Cumilla",
+      "b. Narayangonj",
+      "c. Chittagong",
+      "d. Dhaka"
+    ],
     "correctAnswers": [
       "d"
     ],
@@ -338,7 +528,12 @@
   },
   {
     "question": "What is the name of the currency of Bangladesh?",
-    "options": "a. Rupee, b. Tas, c. Taka, d. Haka",
+    "options": [
+      "a. Rupee",
+      "b. Tas",
+      "c. Taka",
+      "d. Haka"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -346,7 +541,12 @@
   },
   {
     "question": "Which of these elements are gases at room temperature?",
-    "options": "a. Oxygen, b. Carbon, c. Nitrogen, d. Helium",
+    "options": [
+      "a. Oxygen",
+      "b. Carbon",
+      "c. Nitrogen",
+      "d. Helium"
+    ],
     "correctAnswers": [
       "a",
       "c",
@@ -356,7 +556,12 @@
   },
   {
     "question": "Which of these countries are in Asia?",
-    "options": "a. China, b. India, c. Brazil, d. Japan",
+    "options": [
+      "a. China",
+      "b. India",
+      "c. Brazil",
+      "d. Japan"
+    ],
     "correctAnswers": [
       "a",
       "b",
@@ -366,7 +571,12 @@
   },
   {
     "question": "Which vitamins are water-soluble?",
-    "options": "a. Vitamin A, b. Vitamin C, c. Vitamin D, d. Vitamin B",
+    "options": [
+      "a. Vitamin A",
+      "b. Vitamin C",
+      "c. Vitamin D",
+      "d. Vitamin B"
+    ],
     "correctAnswers": [
       "b",
       "d"
@@ -375,7 +585,12 @@
   },
   {
     "question": "What is the chemical symbol for oxygen?",
-    "options": "a. O, b. Ox, c. Oz, d. Oxn",
+    "options": [
+      "a. O",
+      "b. Ox",
+      "c. Oz",
+      "d. Oxn"
+    ],
     "correctAnswers": [
       "a"
     ],
@@ -383,7 +598,12 @@
   },
   {
     "question": "Which gas do plants absorb during photosynthesis?",
-    "options": "a. Oxygen, b. Carbon dioxide, c. Nitrogen, d. Hydrogen",
+    "options": [
+      "a. Oxygen",
+      "b. Carbon dioxide",
+      "c. Nitrogen",
+      "d. Hydrogen"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -391,7 +611,12 @@
   },
   {
     "question": "What is the largest mammal on Earth?",
-    "options": "a. Elephant, b. Blue whale, c. Giraffe, d. Lion",
+    "options": [
+      "a. Elephant",
+      "b. Blue whale",
+      "c. Giraffe",
+      "d. Lion"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -399,7 +624,12 @@
   },
   {
     "question": "Which planet is known as the 'Morning Star'?",
-    "options": "a. Earth, b. Venus, c. Mars, d. Jupiter",
+    "options": [
+      "a. Earth",
+      "b. Venus",
+      "c. Mars",
+      "d. Jupiter"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -407,7 +637,12 @@
   },
   {
     "question": "What is the process by which plants make their own food?",
-    "options": "a. Respiration, b. Photosynthesis, c. Transpiration, d. Fermentation",
+    "options": [
+      "a. Respiration",
+      "b. Photosynthesis",
+      "c. Transpiration",
+      "d. Fermentation"
+    ],
     "correctAnswers": [
       "b"
     ],
@@ -415,7 +650,12 @@
   },
   {
     "question": "Which gas is responsible for the Earth's ozone layer depletion?",
-    "options": "a. Oxygen, b. Carbon dioxide, c. Chlorofluorocarbons (CFCs), d. Nitrogen",
+    "options": [
+      "a. Oxygen",
+      "b. Carbon dioxide",
+      "c. Chlorofluorocarbons (CFCs)",
+      "d. Nitrogen"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -423,7 +663,12 @@
   },
   {
     "question": "What is the capital of Australia?",
-    "options": "a. Sydney, b. Melbourne, c. Canberra, d. Perth",
+    "options": [
+      "a. Sydney",
+      "b. Melbourne",
+      "c. Canberra",
+      "d. Perth"
+    ],
     "correctAnswers": [
       "c"
     ],
@@ -431,12 +676,53 @@
   },
   {
     "question": "Which of these are continents?",
-    "options": "a. Africa, b. Antarctica, c. Amazon, d. Asia",
+    "options": [
+      "a. Africa",
+      "b. Antarctica",
+      "c. Amazon",
+      "d. Asia"
+    ],
     "correctAnswers": [
       "a",
       "b",
       "d"
     ],
     "questionID": "50"
+  },
+  {
+    "question": "What is the pH value of acid?",
+    "options": [
+      "a. 1, b. 7, c. 10, d. 14"
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "questionID": "200"
+  },
+  {
+    "question": "What is the pH value of acid?",
+    "options": [
+      "a. 1",
+      "b. 7",
+      "c. 10",
+      "d. 14"
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "questionID": "201"
+  },
+  {
+    "question": "What is the pH value of acid?",
+    "options": [
+      "a. 1",
+      "b. 7",
+      "c. 10",
+      "d. 14"
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "questionID": "204"
   }
 ]

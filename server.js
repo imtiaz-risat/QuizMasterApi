@@ -29,7 +29,7 @@ const server = http.createServer((req, res) => {
     req.on("end", () => {
       try {
         const registeredUser = userController.registerUser(data);
-
+        delete registeredUser.accessToken;
         userView.sendSuccessResponse(
             res,
             "User registered successfully",
@@ -55,6 +55,7 @@ const server = http.createServer((req, res) => {
         if (result) {
           const { user, accessToken } = result;
           delete user.password;
+          delete user.accessToken;
           userView.sendLogInSuccessResponse(res, "Login successful", {
             user,
             access_token: accessToken,
@@ -78,6 +79,7 @@ const server = http.createServer((req, res) => {
     req.on("end", () => {
       try {
         const registeredAdmin = adminController.registerAdmin(data);
+        delete registeredAdmin.accessToken;
         adminView.sendSuccessResponse(
             res,
             "Admin registered successfully",
@@ -147,7 +149,7 @@ const server = http.createServer((req, res) => {
           );
         } catch (error) {
           console.error(error);
-          quizView.sendErrorResponse(res, 400, "Invalid data");
+          quizView.sendErrorResponse(res, 400, error.message);
         }
       });
     });

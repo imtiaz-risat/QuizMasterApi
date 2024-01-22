@@ -43,6 +43,7 @@ class Quiz {
 }
 
 const addQuiz = ( question, options, correctAnswers) => {
+    
     const quizzes = loadQuizzes();
 
     // Generate a unique questionID by adding 1 to the maximum existing questionID
@@ -55,8 +56,11 @@ const addQuiz = ( question, options, correctAnswers) => {
     return quiz;
 };
 const addSubQuiz = ( question, options, correctAnswers,subject) => {
+    validateQuiz(question, options, correctAnswers);
+
     const quizzes = loadQuizzes();
     const subjectQuizzes = loadSubjectQuizzes(subject);
+
     // Generate a unique questionID by adding 1 to the maximum existing questionID
     const maxQuestionID = Math.max(...quizzes.map(quiz => parseInt(quiz.questionID) || 0));
     const newQuestionID = (maxQuestionID + 1).toString();
@@ -64,11 +68,35 @@ const addSubQuiz = ( question, options, correctAnswers,subject) => {
     const quiz = new Quiz(question, options, correctAnswers, newQuestionID);
     quizzes.push(quiz);
     saveQuizzes(quizzes);
+
     subjectQuizzes.push(quiz);
     saveSubjectQuizzes(subjectQuizzes,subject);
+    
     return quiz;
 };
 
+const validateQuiz = (question, options, correctAnswers) => {
+    
+    if (!Array.isArray(options)) {
+        throw new Error("Invalid data: Options must be an array.");
+    }
+
+    // Correct answers will be valid options based on the first letter
+    const validOptions = options.map((opt) => opt.trim().toLowerCase()[0]);
+
+    correctAnswers.forEach((answer) => {
+        if (!validOptions.includes(answer.trim().toLowerCase())) {
+            throw new Error("Invalid data: Correct answer must be the first letter of one of the provided options.");
+        }
+    });
+
+
+    correctAnswers.forEach((answer) => {
+        if (answer.length === 0) {
+            throw new Error("Invalid data: Correct Answer doesn't contain valid options");
+        }
+    });
+};    
 
 const takeQuiz = (userResponses) => {
     const quizzes = loadQuizzes();
@@ -263,7 +291,7 @@ const getUserQuizHistory = (username) => {
     }
     const output = user.marks.map((mark, index) => {
         const percentage = user.percentages[index];
-        return `Quiz ${index + 1} : Score-> ${mark} , Rate ->${percentage}%`;
+        return `Quiz ${index + 1} : Score-> ${mark} , Success Rate ->${percentage}%`;
     });
 
     return output;
